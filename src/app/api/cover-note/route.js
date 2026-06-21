@@ -91,7 +91,7 @@ export async function POST(request) {
           { role: 'system', content: SYSTEM_PROMPT },
           { role: 'user', content: `Patrick's background:\n${PATRICK_CONTEXT}\n\n---\n\n${userMessage}` },
         ],
-        max_tokens: 800,
+        max_completion_tokens: 800,
         temperature: 0.7,
       }),
     });
