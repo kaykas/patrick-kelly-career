@@ -15,19 +15,20 @@ export default function ProfilePage() {
     <>
       <nav>
         <Link href="/profile">Profile</Link>
-        <Link href="/resume">Updated Resume</Link>
-        <Link href="/review">Review</Link>
-        <Link href="/questions">HR Questions</Link>
-        <Link href="/cover-note">Cover Note Generator</Link>
+        <Link href="/resume">Master Resume</Link>
+        <Link href="/cv">CV Variants</Link>
+        <Link href="/review">Resume Review</Link>
+        <Link href="/questions">Questions</Link>
+        <Link href="/cover-note">Cover Note</Link>
         <button className="logout" onClick={handleLogout}>Logout</button>
       </nav>
       <div className="page-content">
         <h1>Patrick Kelly</h1>
         <p style={{ color: '#555', marginBottom: '1.5rem' }}>
-          Los Angeles, CA · (315) 254-9362 · pskell02@yahoo.com
+          Los Angeles, CA &middot; (315) 254-9362 &middot; pskell02@yahoo.com
         </p>
         <h2>Headline</h2>
-        <p>Marketing Operations · Event Program Management · Ecommerce Growth</p>
+        <p>Marketing Operations &middot; Event Program Management &middot; Ecommerce Growth</p>
 
         <h2>Summary</h2>
         <p>
@@ -51,10 +52,11 @@ export default function ProfilePage() {
           <li>Inventory management, product procurement, and customer growth</li>
         </ul>
 
-        <h2>Navigation</h2>
+        <h2>Quick Navigation</h2>
         <ul>
-          <li><Link href="/resume">View Updated Resume</Link></li>
-          <li><Link href="/review">Read the Resume Review</Link></li>
+          <li><Link href="/resume">View Master Resume</Link></li>
+          <li><Link href="/cv">CV Variants &amp; Downloads</Link> &mdash; three targeted variants with downloadable TXT files</li>
+          <li><Link href="/review">Resume Review &amp; Strategy</Link></li>
           <li><Link href="/questions">HR Interview Questions for Patrick</Link></li>
           <li><Link href="/cover-note">Cover Note Generator</Link></li>
         </ul>

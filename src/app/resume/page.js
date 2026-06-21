@@ -15,22 +15,31 @@ export default function ResumePage() {
     <>
       <nav>
         <Link href="/profile">Profile</Link>
-        <Link href="/resume">Updated Resume</Link>
-        <Link href="/review">Review</Link>
-        <Link href="/questions">HR Questions</Link>
-        <Link href="/cover-note">Cover Note Generator</Link>
+        <Link href="/resume">Master Resume</Link>
+        <Link href="/cv">CV Variants</Link>
+        <Link href="/review">Resume Review</Link>
+        <Link href="/questions">Questions</Link>
+        <Link href="/cover-note">Cover Note</Link>
         <button className="logout" onClick={handleLogout}>Logout</button>
       </nav>
       <div className="page-content">
         <h1>Updated Resume</h1>
+        <div style={{ display: 'flex', gap: '0.75rem', flexWrap: 'wrap', alignItems: 'center', marginBottom: '1.25rem' }}>
+          <a href="/downloads/patrick-updated-resume.txt" className="variant-link" download style={{ fontSize: '0.9rem' }}>
+            Download TXT (ATS-friendly)
+          </a>
+          <a href="/cv" className="variant-link" style={{ fontSize: '0.9rem' }}>
+            View CV Variants &rarr;
+          </a>
+        </div>
         <p style={{ color: '#666', marginBottom: '1.25rem' }}>
           ATS-optimized master resume. For each application, customize to mirror the job description.
         </p>
 
         <h2>PATRICK S. KELLY</h2>
-        <p>Los Angeles, CA · (315) 254-9362 · pskell02@yahoo.com</p>
+        <p>Los Angeles, CA &middot; (315) 254-9362 &middot; pskell02@yahoo.com</p>
 
-        <h3>MARKETING OPERATIONS · EVENT PROGRAM MANAGEMENT · ECOMMERCE GROWTH</h3>
+        <h3>MARKETING OPERATIONS &middot; EVENT PROGRAM MANAGEMENT &middot; ECOMMERCE GROWTH</h3>
         <p>
           Marketing, events, and operations leader with 14+ years of experience building digital campaigns,
           managing large-scale conferences, producing multimedia content, supporting sponsors and clients,
@@ -54,8 +63,8 @@ export default function ResumePage() {
 
         <h3>PROFESSIONAL EXPERIENCE</h3>
 
-        <h4>SPORTS SOURCE 2 — Los Angeles, CA</h4>
-        <p><strong>General Manager</strong> · February 2023–Present</p>
+        <h4>SPORTS SOURCE 2 &mdash; Los Angeles, CA</h4>
+        <p><strong>General Manager</strong> &middot; February 2023&ndash;Present</p>
         <p>Manage day-to-day operations for a high-volume trading card retailer with a large physical inventory, ecommerce channels, and marketplace-driven revenue streams.</p>
         <ul>
           <li>Helped grow annual revenue from under $1M to approximately $4M by expanding sales channels, improving operational execution, and increasing customer visibility.</li>
@@ -66,10 +75,10 @@ export default function ResumePage() {
           <li>Coordinate across in-store, ecommerce, and marketplace workflows to keep inventory and customer demand aligned.</li>
         </ul>
 
-        <h4>PAINWEEK — Montclair, NJ</h4>
-        <p><strong>Director, Multimedia Production</strong> · January 2020–February 2023</p>
-        <p><strong>Senior Program Director</strong> · March 2015–January 2020</p>
-        <p><strong>Program Manager</strong> · February 2009–March 2015</p>
+        <h4>PAINWEEK &mdash; Montclair, NJ</h4>
+        <p><strong>Director, Multimedia Production</strong> &middot; January 2020&ndash;February 2023</p>
+        <p><strong>Senior Program Director</strong> &middot; March 2015&ndash;January 2020</p>
+        <p><strong>Program Manager</strong> &middot; February 2009&ndash;March 2015</p>
         <p>Progressed through program management, event leadership, and multimedia production roles for PAINWeek, the nation&apos;s largest conference on pain. Served as a key member of the management team reporting directly to managing partners, with responsibility across digital engagement, event coordination, corporate branding, sponsor support, graphic design, and multimedia production.</p>
         <ul>
           <li>Managed digital and live event operations for more than 50 events per year, ranging from 150 to 2,500 attendees and exhibitors.</li>
@@ -90,7 +99,7 @@ export default function ResumePage() {
 
         <h3>VOLUNTEER / CREATIVE PRODUCTION</h3>
         <h4>LAUGHING TURTLE PRODUCTIONS</h4>
-        <p><strong>Creative Production Support</strong> · February 2016–Present</p>
+        <p><strong>Creative Production Support</strong> &middot; February 2016&ndash;Present</p>
         <ul>
           <li>Provide proofreading and editorial support for television and film scripts.</li>
           <li>Edit video and support story development for legal defense videos connected to nationally televised legal proceedings.</li>
@@ -99,7 +108,7 @@ export default function ResumePage() {
         </ul>
 
         <h3>EDUCATION</h3>
-        <p><strong>St. Lawrence University</strong> — Canton, NY<br />Studies in General Management, Marketing and Sales; advanced studies in Computer Sciences</p>
+        <p><strong>St. Lawrence University</strong> &mdash; Canton, NY<br />Studies in General Management, Marketing and Sales; advanced studies in Computer Sciences</p>
 
         <h3>CERTIFICATIONS</h3>
         <ul>
@@ -107,7 +116,7 @@ export default function ResumePage() {
         </ul>
 
         <h3>SOFTWARE AND TOOLS</h3>
-        <p>Microsoft Office · Adobe Creative Suite · Photoshop · InDesign · Illustrator · Adobe Animate · Final Cut Pro X · Avid Media Composer · Affinity Designer · Asana · HubSpot · HelpScout · Cvent · eBay · Whatnot</p>
+        <p>Microsoft Office &middot; Adobe Creative Suite &middot; Photoshop &middot; InDesign &middot; Illustrator &middot; Adobe Animate &middot; Final Cut Pro X &middot; Avid Media Composer &middot; Affinity Designer &middot; Asana &middot; HubSpot &middot; HelpScout &middot; Cvent &middot; eBay &middot; Whatnot</p>
       </div>
     </>
   );

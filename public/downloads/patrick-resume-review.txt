@@ -1,0 +1,53 @@
+Patrick Kelly — Resume Review
+
+SITUATION
+Patrick has not had to use his resume seriously since 2008. He has been applying nonstop
+for a few years, is not getting many interviews, and suspects ATS/ranking systems are not
+reading or prioritizing the resume well.
+
+WHAT IS WORKING
+- Real operational scale: grew Sports Source 2 revenue from under $1M to $4M annually.
+- Long tenure and progression at PAINWeek: Program Manager -> Senior Program Director ->
+  Director, Multimedia Production.
+- Strong hybrid profile: marketing, event operations, digital production, CRM/customer
+  support, analytics, and ecommerce.
+- Concrete event scale: 50+ events/year, 150-2,500 attendees/exhibitors, 120-page program
+  guide, 250+ edited interviews/animations.
+- Tool stack is useful: Adobe Creative Suite, Cvent, HubSpot, HelpScout, Asana, video
+  editing tools.
+
+MAIN ISSUES HURTING VISIBILITY
+1. Headline is too broad. "Marketing/Communications/Event Management" does not tell an
+   ATS or recruiter what job family to place him in. He needs targeted versions by role.
+2. Summary undersells the strongest proof. The current summary says "strong" and
+   "strategic" but does not lead with revenue growth, conference scale, or digital
+   campaign ownership.
+3. Too many bullets are responsibility-only. More bullets need metrics, scope, frequency,
+   stakeholders, budget/vendor/team size, and tools.
+4. Formatting likely creates parsing problems. Multiple roles under one employer, tabbed
+   spacing, section labels embedded as bullets, and decorative formatting can confuse ATS.
+5. Sports Source 2 is underdeveloped. Most current role with the best metric needs more
+   context: team size, inventory systems, ecommerce channels, campaign cadence, etc.
+6. Skills section is incomplete for current roles. Lists software but not keyword clusters
+   recruiters search for.
+7. The resume lacks targeting. One all-purpose resume performs poorly against modern ATS
+   ranking. Needs base resume plus tailored variants.
+
+RECOMMENDED STRATEGY
+Build one clean ATS master resume, then maintain four role-specific versions:
+- Marketing Operations / Marketing Specialist
+- Event Marketing / Program Manager
+- Digital Content / Multimedia Production
+- Ecommerce / Marketplace Operations Manager
+
+For every job application, mirror the job description's terms where truthful: "campaign
+operations," "event logistics," "CRM," "marketing automation," "stakeholder management,"
+"ecommerce marketplace," "vendor coordination," "analytics/reporting," etc.
+
+CHANGES MADE IN THE UPDATED RESUME
+- Repositioned Patrick as a marketing, event operations, and ecommerce leader.
+- Pulled the $1M -> $4M revenue growth into the top summary.
+- Converted responsibility lists into achievement bullets.
+- Flattened formatting for ATS readability.
+- Consolidated skills into keyword-rich groups.
+- Made the PAINWeek career progression readable without burying the promotions.
