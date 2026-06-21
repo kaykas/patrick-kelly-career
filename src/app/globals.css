@@ -306,6 +306,147 @@ nav .logout:hover {
   flex-shrink: 0;
 }
 
+/* ── CV Variants Grid ── */
+.cv-variants-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+  gap: 1.5rem;
+  margin: 1.5rem 0;
+}
+
+.cv-variant-card {
+  background: white;
+  border: 2px solid #ddd;
+  border-radius: 10px;
+  padding: 1.25rem;
+  display: flex;
+  flex-direction: column;
+}
+
+.cv-variant-card .badge {
+  align-self: flex-start;
+  margin-bottom: 0.75rem;
+}
+
+.cv-variant-card h2 {
+  font-size: 1.1rem;
+  margin: 0 0 0.5rem;
+  color: var(--blue);
+  border: none;
+}
+
+.target-roles {
+  color: #555;
+  font-size: 0.85rem;
+  font-style: italic;
+  margin-bottom: 0.75rem;
+}
+
+.variant-desc {
+  color: #333;
+  font-size: 0.9rem;
+  line-height: 1.5;
+  flex: 1;
+}
+
+.variant-links {
+  display: flex;
+  gap: 0.75rem;
+  margin-top: 1rem;
+  padding-top: 0.75rem;
+  border-top: 1px solid #eee;
+}
+
+.variant-link {
+  color: var(--blue);
+  font-weight: 600;
+  font-size: 0.85rem;
+  text-decoration: none;
+  padding: 0.35rem 0.75rem;
+  border: 2px solid var(--blue);
+  border-radius: 6px;
+  transition: 0.2s;
+}
+
+.variant-link:hover {
+  background: var(--blue);
+  color: white;
+}
+
+.cv-downloads-section {
+  margin-top: 2rem;
+  background: white;
+  border: 2px solid #ddd;
+  border-radius: 10px;
+  padding: 1.25rem;
+}
+
+.dl-list {
+  list-style: none;
+  padding: 0;
+}
+
+.dl-list li {
+  padding: 0.5rem 0;
+  border-bottom: 1px solid #eee;
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+}
+
+.dl-list li:last-child {
+  border-bottom: none;
+}
+
+.dl-list a {
+  color: var(--blue);
+  font-weight: 500;
+  text-decoration: none;
+}
+
+.dl-list a:hover {
+  text-decoration: underline;
+}
+
+.dl-size {
+  color: #888;
+  font-size: 0.8rem;
+}
+
+/* ── Priority Badge ── */
+.priority-heading {
+  border-bottom: 3px solid;
+  padding-bottom: 0.4rem;
+  display: inline-block;
+}
+
+.priority-desc {
+  color: #666;
+  font-size: 0.85rem;
+  margin-top: 0.25rem;
+  margin-bottom: 1rem;
+}
+
+.priority-p1 {
+  background: var(--red) !important;
+}
+
+.priority-p2 {
+  background: var(--gold) !important;
+  color: var(--black) !important;
+}
+
+.priority-p3 {
+  background: var(--blue) !important;
+}
+
+.q-hint {
+  color: #666;
+  font-size: 0.875rem;
+  margin-top: 0.3rem;
+  margin-left: 2.35rem;
+}
+
 /* ── Badge ── */
 .badge {
   display: inline-block;
