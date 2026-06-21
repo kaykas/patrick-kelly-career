@@ -1,76 +1,39 @@
-'use client';
+import Link from 'next/link';
 
-import { Suspense, useState, useEffect } from 'react';
-import { useRouter, useSearchParams } from 'next/navigation';
-
-function GateInner() {
-  const [code, setCode] = useState('');
-  const [error, setError] = useState('');
-  const [loading, setLoading] = useState(false);
-  const router = useRouter();
-  const searchParams = useSearchParams();
-
-  useEffect(() => {
-    const check = async () => {
-      const res = await fetch('/api/check-auth');
-      if (res.ok) {
-        const dest = searchParams.get('redirect') || '/profile';
-        router.replace(dest);
-      }
-    };
-    check();
-  }, [router, searchParams]);
-
-  const handleSubmit = async (e) => {
-    e.preventDefault();
-    setError('');
-    setLoading(true);
-
-    const res = await fetch('/api/auth', {
-      method: 'POST',
-      headers: { 'Content-Type': 'application/json' },
-      body: JSON.stringify({ code }),
-    });
-
-    if (res.ok) {
-      const dest = searchParams.get('redirect') || '/profile';
-      router.push(dest);
-    } else {
-      setError('Incorrect access code.');
-      setLoading(false);
-    }
-  };
-
+export default function HomePage() {
   return (
-    <div className="gate">
+    <div className="page-content">
       <h1>Patrick Kelly</h1>
-      <p>Career portfolio and resume materials. Enter access code to continue.</p>
-      <form onSubmit={handleSubmit}>
-        <input
-          type="password"
-          placeholder="Access code"
-          value={code}
-          onChange={(e) => setCode(e.target.value)}
-          autoFocus
-        />
-        <button type="submit" disabled={loading}>
-          {loading ? 'Checking...' : 'Enter'}
-        </button>
-        {error && <p className="error-msg">{error}</p>}
-      </form>
-    </div>
-  );
-}
-
-export default function GatePage() {
-  return (
-    <Suspense fallback={
-      <div className="gate">
-        <h1>Patrick Kelly</h1>
-        <p>Loading...</p>
+      <p style={{ color: '#555', marginBottom: '1.5rem' }}>
+        Career portfolio, resume materials, application questions, and cover-note tool.
+      </p>
+      <div className="card-grid">
+        <Link className="card" href="/profile">
+          <span className="badge">Start here</span>
+          <h2>Profile</h2>
+          <p>Positioning, summary, strengths, and navigation.</p>
+        </Link>
+        <Link className="card" href="/resume">
+          <h2>Master Resume</h2>
+          <p>ATS-friendly first-pass revised resume.</p>
+        </Link>
+        <Link className="card" href="/cv">
+          <h2>CV Variants</h2>
+          <p>Targeted versions for marketing/event, ecommerce, and digital content roles.</p>
+        </Link>
+        <Link className="card" href="/review">
+          <h2>Resume Review</h2>
+          <p>Constructive feedback and visibility strategy.</p>
+        </Link>
+        <Link className="card" href="/questions">
+          <h2>Questions</h2>
+          <p>HR-grade questions to tighten the next draft.</p>
+        </Link>
+        <Link className="card" href="/cover-note">
+          <h2>Cover Note Generator</h2>
+          <p>Generate specific, plainspoken cover notes for applications.</p>
+        </Link>
       </div>
-    }>
-      <GateInner />
-    </Suspense>
+    </div>
   );
 }
