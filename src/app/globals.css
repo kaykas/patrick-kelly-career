@@ -1,0 +1,268 @@
+:root {
+  --black: #111;
+  --white: #f8f6f0;
+  --red: #d94a3d;
+  --blue: #2b5f8a;
+  --gold: #c99b3b;
+  --gray: #aaa8a2;
+  --bg: #f8f6f0;
+  --text: #111;
+}
+
+* { box-sizing: border-box; margin: 0; padding: 0; }
+
+html { scroll-behavior: smooth; }
+
+body {
+  font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;
+  background: var(--bg);
+  color: var(--text);
+  line-height: 1.5;
+}
+
+.container { max-width: 1100px; margin: 0 auto; padding: 0 1.5rem; }
+
+/* ── Access Gate ── */
+.gate {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+  text-align: center;
+  padding: 2rem;
+}
+
+.gate h1 {
+  font-size: 2rem;
+  font-weight: 600;
+  margin-bottom: 0.5rem;
+}
+
+.gate p {
+  color: #555;
+  margin-bottom: 2rem;
+  max-width: 400px;
+}
+
+.gate form {
+  display: flex;
+  flex-direction: column;
+  gap: 0.75rem;
+  width: 100%;
+  max-width: 320px;
+}
+
+.gate input {
+  padding: 0.75rem 1rem;
+  font-size: 1rem;
+  border: 2px solid #ccc;
+  border-radius: 6px;
+  text-align: center;
+  outline: none;
+  transition: border-color 0.2s;
+}
+
+.gate input:focus {
+  border-color: var(--blue);
+}
+
+.gate button {
+  padding: 0.75rem 1.5rem;
+  font-size: 1rem;
+  font-weight: 600;
+  background: var(--blue);
+  color: white;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+  transition: background 0.2s;
+}
+
+.gate button:hover {
+  background: #1e4a6e;
+}
+
+.error-msg {
+  color: var(--red);
+  font-size: 0.875rem;
+  margin-top: 0.5rem;
+}
+
+/* ── Navigation ── */
+nav {
+  background: var(--black);
+  color: var(--white);
+  padding: 0.75rem 1.5rem;
+  display: flex;
+  align-items: center;
+  gap: 1.5rem;
+  flex-wrap: wrap;
+}
+
+nav a {
+  color: var(--white);
+  text-decoration: none;
+  font-weight: 500;
+  font-size: 0.9rem;
+  padding: 0.25rem 0;
+  transition: opacity 0.2s;
+}
+
+nav a:hover { opacity: 0.7; }
+
+nav .logout {
+  margin-left: auto;
+  background: none;
+  border: 1px solid var(--white);
+  color: var(--white);
+  padding: 0.35rem 0.75rem;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 0.8rem;
+  transition: 0.2s;
+}
+
+nav .logout:hover {
+  background: var(--white);
+  color: var(--black);
+}
+
+/* ── Page content ── */
+.page-content {
+  padding: 2rem 1.5rem;
+  max-width: 1100px;
+  margin: 0 auto;
+}
+
+.page-content h1 {
+  font-size: 1.75rem;
+  margin-bottom: 1rem;
+  border-bottom: 3px solid var(--red);
+  padding-bottom: 0.5rem;
+  display: inline-block;
+}
+
+.page-content h2 {
+  font-size: 1.25rem;
+  margin: 1.5rem 0 0.75rem;
+  color: var(--blue);
+}
+
+.page-content h3 {
+  font-size: 1.05rem;
+  margin: 1rem 0 0.5rem;
+}
+
+.page-content ul {
+  padding-left: 1.25rem;
+  margin-bottom: 1rem;
+}
+
+.page-content li {
+  margin-bottom: 0.4rem;
+}
+
+.page-content p {
+  margin-bottom: 0.75rem;
+}
+
+/* ── Cover Note Generator ── */
+.cover-form {
+  margin: 1.5rem 0;
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+}
+
+.cover-form textarea {
+  width: 100%;
+  min-height: 140px;
+  padding: 0.75rem;
+  font-size: 0.95rem;
+  border: 2px solid #ccc;
+  border-radius: 6px;
+  font-family: inherit;
+  resize: vertical;
+}
+
+.cover-form textarea:focus {
+  border-color: var(--blue);
+  outline: none;
+}
+
+.cover-form button {
+  align-self: flex-start;
+  padding: 0.6rem 1.25rem;
+  font-size: 0.95rem;
+  font-weight: 600;
+  background: var(--blue);
+  color: white;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+}
+
+.cover-form button:hover { background: #1e4a6e; }
+.cover-form button:disabled { opacity: 0.5; cursor: not-allowed; }
+
+.cover-output {
+  margin-top: 1.5rem;
+  background: white;
+  border: 2px solid #ddd;
+  border-radius: 8px;
+  padding: 1.25rem;
+  white-space: pre-wrap;
+  line-height: 1.6;
+}
+
+.cover-error {
+  color: var(--red);
+  font-weight: 500;
+}
+
+.loading-dots::after {
+  content: '';
+  animation: dots 1.5s steps(4, end) infinite;
+}
+
+@keyframes dots {
+  0% { content: ''; }
+  25% { content: '.'; }
+  50% { content: '..'; }
+  75% { content: '...'; }
+}
+
+/* ── Question list ── */
+.q-list { list-style: none; padding: 0; }
+.q-list li {
+  padding: 0.6rem 0;
+  border-bottom: 1px solid #ddd;
+}
+.q-list li:last-child { border-bottom: none; }
+.q-number {
+  display: inline-block;
+  width: 1.75rem;
+  height: 1.75rem;
+  background: var(--blue);
+  color: white;
+  border-radius: 50%;
+  text-align: center;
+  line-height: 1.75rem;
+  font-size: 0.8rem;
+  font-weight: 700;
+  margin-right: 0.5rem;
+  flex-shrink: 0;
+}
+
+/* ── Badge ── */
+.badge {
+  display: inline-block;
+  background: var(--gold);
+  color: var(--black);
+  padding: 0.2rem 0.6rem;
+  border-radius: 4px;
+  font-size: 0.75rem;
+  font-weight: 600;
+  letter-spacing: 0.5px;
+}
