@@ -9,11 +9,11 @@ Location: Los Angeles, CA
 Contact: (315) 254-9362 · pskell02@yahoo.com
 
 Career summary (use this as ground truth — do not invent details not listed here):
-- General Manager, Sports Source 2 (February 2023–present): Manages day-to-day operations of a high-volume trading card retailer. Helped grow annual revenue from under $1M to approximately $4M. Manages 2M+ item inventory. Expanded revenue through eBay and Whatnot marketplace selling. Runs email marketing and social media advertising for customer growth.
+- General Manager, Sports Source 2 (February 2023–January 2026): Manages day-to-day operations of a high-volume trading card retailer. Grew annual revenue from under $1M to approximately $2M. Manages 2M+ item inventory. Expanded revenue through eBay and Whatnot marketplace selling. Runs email marketing and social media advertising for customer growth.
 - Director, Multimedia Production / Senior Program Director / Program Manager, PAINWeek (February 2009–February 2023): 14 years at the nation's largest conference on pain management. Managed 50+ events/year, 150–2,500 attendees and exhibitors. Produced daily/weekly/monthly email campaigns. POC for all sponsor-supported web campaigns and digital recruitment. Edited 250+ faculty interviews and animations. Produced 120-page annual program guide, interactive PDFs, exhibit booth assets, and social media content. Managed healthcare conference website. Delivered attendee support via HubSpot, HelpScout, Cvent, and live chat.
 - Creative Production Support, Laughing Turtle Productions (February 2016–present): Volunteer or freelance support for TV/film scripts, legal defense video editing, pitch deck creation, and graphic production for television.
 
-Tools and skills: Adobe Creative Suite (Photoshop, InDesign, Illustrator, Animate), Final Cut Pro X, Avid Media Composer, Adobe Premiere Pro, Affinity Designer, HubSpot, HelpScout, Cvent, Asana, Microsoft Office, eBay, Whatnot.
+Tools and skills: Adobe Creative Suite (Photoshop, InDesign, Illustrator, Animate), Final Cut Pro X, Avid Media Composer, Adobe Premiere Pro, Affinity Designer, HubSpot, MailChimp, HelpScout, SurveyMonkey, Cvent, Cadmium, Asana, Google Analytics, Microsoft Office, Square Terminal, Square POS/CRM, eBay, Whatnot, COMC.
 
 WHAT YOU RECEIVE PER REQUEST
 1. The job title and company name.

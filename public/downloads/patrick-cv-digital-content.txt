@@ -29,9 +29,11 @@ Director, Multimedia Production  ·  January 2020–February 2023
 Senior Program Director  ·  March 2015–January 2020
 Program Manager  ·  February 2009–March 2015
 
-PAINWeek is the nation's largest annual pain management conference. In the Director,
-Multimedia Production role, served as the primary creative and digital production resource
-for the organization.
+PAINWeek is the nation's largest annual pain management conference, hosting approximately 125
+exhibitors annually including 10-20 major pharmaceutical partners. In the Director, Multimedia
+Production role, served as the primary creative and digital production resource for the
+organization. Transitioned to virtual and hybrid delivery during COVID using a custom-built
+platform on Cadmium.
 
 - Edited 250+ faculty interviews and animations using Avid Media Composer, Final Cut Pro X,
   Adobe Premiere Pro, and Adobe Animate.
@@ -43,8 +45,10 @@ for the organization.
 - Managed structure, functionality, and content updates for a rapidly expanding healthcare
   conference website, including web copy, banner ad placements, and digital promotional
   inventory.
-- Produced daily, weekly, and monthly email campaigns, managing layout, copy, asset production,
-  and send.
+- Produced daily, weekly, and monthly email campaigns managing layout, copy, asset production,
+  send execution, and results exporting. Built campaigns in MailChimp and HubSpot for a list
+  of approximately 50,000 active subscribers. Mass campaigns achieved 10-20% open rates;
+  targeted sponsor/exhibitor campaigns achieved over 70% click rates.
 - Created and produced social media campaign content for Facebook, Instagram, and X.
 - Served as POC for all client-supported web campaigns: banner advertising, high-volume email
   programs, and digital promotional assets.
@@ -57,19 +61,22 @@ for the organization.
 - Coordinated contract creative resources for national and regional conference production.
 
 SPORTS SOURCE 2 — Los Angeles, CA
-General Manager  ·  February 2023–Present
+General Manager  ·  February 2023–January 2026
 
-- Support customer acquisition and retention through email marketing campaigns and social media
-  advertising content creation.
-- Manage visual presentation and marketplace listing quality across eBay and Whatnot channels.
+- Supported customer acquisition and retention through Square email marketing module campaigns
+  and organic social media content creation.
+- Managed visual presentation and marketplace listing quality across eBay, Whatnot, and Facebook
+  channels.
+- Created and produced content for bi-weekly Facebook case breaks and weekly Whatnot shows.
+- Used Square POS/CRM and managed product photography and listing assets across sales channels.
 
 VOLUNTEER / CREATIVE PRODUCTION
 
 LAUGHING TURTLE PRODUCTIONS
 Creative Production Support  ·  February 2016–Present
 
-- Video editing and story development for legal defense videos connected to nationally
-  televised legal proceedings.
+- Video editing and story development for legal defense videos connected to nationally televised
+  legal proceedings.
 - Editorial and proofreading support for television and film scripts.
 - Pitch deck design and presentation materials for network sales conversations.
 - Graphic asset production for television productions.
@@ -89,6 +96,8 @@ Video & Motion:  Final Cut Pro X  ·  Avid Media Composer  ·  Adobe Premiere Pr
                 Adobe Animate
 Design & Layout:  Adobe Photoshop  ·  Adobe InDesign  ·  Adobe Illustrator
                  Affinity Designer
-Web & Digital:  CMS content management  ·  Email campaign production  ·  Banner ad production
+Email Marketing:  MailChimp  ·  HubSpot  ·  SurveyMonkey  ·  Square Email Module
+Web & Digital:  CMS content management  ·  Banner ad production  ·  Cadmium
 CRM & Project:  HubSpot  ·  HelpScout  ·  Asana  ·  Cvent
+Analytics:  Google Analytics
 Productivity:  Microsoft Office

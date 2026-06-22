@@ -39,10 +39,9 @@ export default function CVIndexPage() {
           <div className="cv-variant-card">
             <span className="badge">Variant 1 of 3</span>
             <h2>Marketing &amp; Event Operations</h2>
-            <p className="target-roles">Marketing Operations Manager, Event Marketing Manager, Event Program Manager, Marketing Specialist</p>
+            <p className="target-roles">Event Program Manager, Marketing Operations Manager, Event Marketing Manager, Marketing Specialist</p>
             <p className="variant-desc">
-              Emphasizes campaign management, event logistics, email marketing, sponsor/client support,
-              and cross-channel marketing operations from PAINWeek and Sports Source 2.
+              Primary variant. Emphasizes campaign management, event logistics, email marketing (50k subscribers, 10-20% mass open rates, targeted over 70% click rates), sponsor/client support, and cross-channel marketing operations from PAINWeek and Sports Source 2.
             </p>
             <div className="variant-links">
               <Link href="/cv/marketing-event" className="variant-link">View on-site</Link>
@@ -55,7 +54,7 @@ export default function CVIndexPage() {
             <h2>Ecommerce &amp; Marketplace Operations</h2>
             <p className="target-roles">Ecommerce Operations Manager, Marketplace Operations Manager, Retail Operations Manager, General Manager</p>
             <p className="variant-desc">
-              Leads with Sports Source 2 revenue growth ($1M to $4M), inventory management at scale,
+              Leads with Sports Source 2 revenue growth ($1M to $2M), inventory management at scale,
               eBay/Whatnot marketplace operations, and cross-channel operations alignment.
             </p>
             <div className="variant-links">

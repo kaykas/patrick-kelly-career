@@ -56,10 +56,10 @@ export default function MarketingEventCV() {
           professionals, faculty, and pharmaceutical sponsors.
         </p>
         <ul>
-          <li>Managed digital and live event operations for 50+ events per year ranging from 150 to 2,500 attendees and exhibitors, covering national conferences, regional events, and satellite programs.</li>
+          <li>Managed digital and live event operations for 50+ events per year ranging from 150 to 2,500 attendees and exhibitors, covering national conferences, regional events, and satellite programs. Transitioned to virtual and hybrid delivery during COVID using a custom-built platform on Cadmium.</li>
           <li>Served as single point of contact for all large-scale company events, national sales meetings, and attendee-facing campaigns from recruitment through post-conference follow-up.</li>
-          <li>Produced daily, weekly, and monthly email campaigns supporting event promotion, audience engagement, sponsor activation, and digital recruitment.</li>
-          <li>Managed sponsored banner advertising on PAINWeek.org and distributed internal banner placements across partner websites. Served as client POC for all web-based sponsor campaigns.</li>
+          <li>Owned the email marketing process end-to-end for an active list of approximately 50,000 subscribers, from content creation and campaign builds in MailChimp and HubSpot through send execution and results exporting. Produced daily, weekly, and monthly email campaigns supporting event promotion, audience engagement, sponsor activation, and digital recruitment. Mass campaigns achieved 10-20% open rates and ~3% click rates; targeted sponsor/exhibitor campaigns achieved over 70% click rates and up to 80% open rates.</li>
+          <li>Managed sponsored banner advertising on PAINWeek.org and distributed internal banner placements across partner websites. Served as client POC for all web-based sponsor campaigns. Tracked campaign performance using Google Analytics.</li>
           <li>Created campaign assets for Facebook, Instagram, and X, and managed organic and paid social presence supporting conference registration.</li>
           <li>Oversaw structure, content, and functionality updates for a rapidly growing healthcare conference website.</li>
           <li>Designed and produced original marketing and event materials in Photoshop, InDesign, and Illustrator: 120-page annual program guide, interactive PDFs, exhibit booth graphics, sales collateral, and sponsor-facing promotional pieces.</li>
@@ -70,12 +70,15 @@ export default function MarketingEventCV() {
         </ul>
 
         <h4>SPORTS SOURCE 2 — Los Angeles, CA</h4>
-        <p><strong>General Manager</strong> · February 2023–Present</p>
+        <p><strong>General Manager</strong> · February 2023–January 2026</p>
         <ul>
-          <li>Helped grow annual revenue from under $1M to approximately $4M by expanding sales channels, improving operational execution, and increasing marketplace and customer visibility.</li>
-          <li>Manage more than 2 million items in inventory, including intake, organization, procurement, pricing support, and sales readiness.</li>
-          <li>Coordinate customer growth through email marketing campaigns and social media advertising.</li>
-          <li>Oversee daily retail operations, product procurement, customer service, and cross-channel process improvements.</li>
+          <li>Grew annual revenue from under $1M to approximately $2M by expanding sales channels, improving operational execution, and increasing marketplace and customer visibility.</li>
+          <li>Managed operations as solo operator for two years, then with one direct report for a subsequent two-year period. Maintained relationships with 8 frequent vendors.</li>
+          <li>Managed more than 2 million items in inventory, including intake, organization, procurement, pricing support, and sales readiness across physical retail, eBay, and Whatnot channels.</li>
+          <li>Operated eBay as primary online sales channel; maintained Squarespace inventory listing site (non-ecommerce). Ran bi-weekly Facebook case breaks and weekly Whatnot shows through a dedicated breaker. Executed COMC arbitrage for quick in-store resale profit.</li>
+          <li>Used Square Terminal and Square POS/CRM for in-store transactions and email marketing through the Square email module.</li>
+          <li>Product procurement through Upper Deck, Topps, Panini, supplier, and distributor portals.</li>
+          <li>Oversaw daily retail operations with a $500 daily buying budget and larger purchases handled by the owner.</li>
         </ul>
 
         <h3>VOLUNTEER / CREATIVE PRODUCTION</h3>
@@ -98,10 +101,11 @@ export default function MarketingEventCV() {
         </ul>
 
         <h3>SOFTWARE AND TOOLS</h3>
-        <p><strong>Marketing &amp; CRM:</strong> HubSpot · HelpScout · Asana · eBay Seller · Whatnot</p>
+        <p><strong>Marketing &amp; CRM:</strong> HubSpot · MailChimp · SurveyMonkey · HelpScout · Asana · Square POS/CRM · eBay Seller · Whatnot · COMC</p>
         <p><strong>Design &amp; Production:</strong> Adobe Creative Suite (Photoshop, InDesign, Illustrator, Animate) · Affinity Designer</p>
         <p><strong>Video:</strong> Final Cut Pro X · Avid Media Composer · Adobe Premiere Pro</p>
-        <p><strong>Event &amp; Registration:</strong> Cvent</p>
+        <p><strong>Event &amp; Registration:</strong> Cvent · Cadmium</p>
+        <p><strong>Analytics:</strong> Google Analytics</p>
         <p><strong>Productivity:</strong> Microsoft Office</p>
       </div>
     </>

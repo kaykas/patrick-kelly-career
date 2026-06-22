@@ -10,7 +10,7 @@ largest conference on pain, progressed from Program Manager to Director of Multi
 managing 50+ events per year and daily-to-monthly email campaigns. Currently managing operations
 and revenue growth at a high-volume retail and ecommerce business.
 
-TARGET ROLES: Marketing Operations Manager, Event Marketing Manager, Event Program Manager,
+TARGET ROLES: Event Program Manager, Marketing Operations Manager, Event Marketing Manager,
 Marketing Specialist
 
 
@@ -30,19 +30,28 @@ Senior Program Director  ·  March 2015–January 2020
 Program Manager  ·  February 2009–March 2015
 
 PAINWeek is the nation's largest annual conference on pain management, serving healthcare
-professionals, faculty, and pharmaceutical sponsors.
+professionals, faculty, and pharmaceutical sponsors. The annual conference hosted approximately
+125 exhibitors, including 10-20 major pharmaceutical companies. Annual production budget of
+$500k with $50k recruitment marketing and $20k digital production budgets.
 
 - Managed digital and live event operations for 50+ events per year ranging from 150 to
-  2,500 attendees and exhibitors, covering national conferences, regional events, and
-  satellite programs.
-- Served as single point of contact for all large-scale company events, national sales
-  meetings, and attendee-facing campaigns from recruitment through post-conference follow-up.
-- Produced daily, weekly, and monthly email campaigns supporting event promotion, audience
-  engagement, sponsor activation, and digital recruitment.
-- Managed sponsored banner advertising on PAINWeek.org and distributed internal banner
-  placements across partner websites. Served as client POC for all web-based sponsor campaigns.
+  2,500 attendees and exhibitors, covering national conferences, regional events, and satellite
+  programs. Transitioned to virtual and hybrid delivery during COVID using a custom-built
+  platform on Cadmium.
+- Served as single point of contact for all large-scale company events, national sales meetings,
+  and attendee-facing campaigns from recruitment through post-conference follow-up.
+- Owned the email marketing process end-to-end for an active list of approximately 50,000
+  subscribers, from content creation and campaign builds in MailChimp and HubSpot through send
+  execution and results exporting. Produced daily, weekly, and monthly email campaigns supporting
+  event promotion, audience engagement, sponsor activation, and digital recruitment. Mass campaigns
+  achieved 10-20% open rates and ~3% click rates; targeted sponsor/exhibitor campaigns achieved
+  over 70% click rates and up to 80% open rates.
+- Managed sponsored banner advertising on PAINWeek.org and distributed internal banner placements
+  across partner websites. Served as client POC for all web-based sponsor campaigns. Tracked
+  campaign performance using Google Analytics.
 - Created campaign assets for Facebook, Instagram, and X, and managed organic and paid social
-  presence supporting conference registration.
+  presence supporting conference registration. Used SurveyMonkey for email surveys and audience
+  feedback collection.
 - Oversaw structure, content, and functionality updates for a rapidly growing healthcare
   conference website.
 - Designed and produced original marketing and event materials in Photoshop, InDesign, and
@@ -56,15 +65,22 @@ professionals, faculty, and pharmaceutical sponsors.
   management, event leadership, and multimedia production.
 
 SPORTS SOURCE 2 — Los Angeles, CA
-General Manager  ·  February 2023–Present
+General Manager  ·  February 2023–January 2026
 
-- Helped grow annual revenue from under $1M to approximately $4M by expanding sales channels,
-  improving operational execution, and increasing marketplace and customer visibility.
-- Manage more than 2 million items in inventory, including intake, organization, procurement,
-  pricing support, and sales readiness.
-- Coordinate customer growth through email marketing campaigns and social media advertising.
-- Oversee daily retail operations, product procurement, customer service, and cross-channel
-  process improvements.
+- Grew annual revenue from under $1M to approximately $2M by expanding sales channels, improving
+  operational execution, and increasing marketplace and customer visibility.
+- Managed operations as solo operator for two years, then with one direct report for a subsequent
+  two-year period. Maintained relationships with 8 frequent vendors.
+- Managed more than 2 million items in inventory, including intake, organization, procurement,
+  pricing support, and sales readiness across physical retail, eBay, and Whatnot channels.
+- Operated eBay as primary online sales channel; maintained Squarespace inventory listing site
+  (non-ecommerce). Ran bi-weekly Facebook case breaks and weekly Whatnot shows through a dedicated
+  breaker. Executed COMC arbitrage for quick in-store resale profit.
+- Used Square Terminal and Square POS/CRM for in-store transactions and email marketing through
+  the Square email module.
+- Product procurement through Upper Deck, Topps, Panini, supplier, and distributor portals.
+- Oversaw daily retail operations with a $500 daily buying budget and larger purchases handled
+  by the owner.
 
 VOLUNTEER / CREATIVE PRODUCTION
 
@@ -72,8 +88,8 @@ LAUGHING TURTLE PRODUCTIONS
 Creative Production Support  ·  February 2016–Present
 
 - Editorial and proofreading support for television and film scripts.
-- Video editing and story development for legal defense videos connected to nationally
-  televised legal proceedings.
+- Video editing and story development for legal defense videos connected to nationally televised
+  legal proceedings.
 - Pitch decks and presentation materials for network sales conversations.
 - Graphic asset production for television productions.
 
@@ -88,9 +104,11 @@ CERTIFICATIONS
 
 SOFTWARE AND TOOLS
 
-Marketing & CRM:  HubSpot  ·  HelpScout  ·  Asana  ·  eBay Seller  ·  Whatnot
+Marketing & CRM:  HubSpot  ·  MailChimp  ·  SurveyMonkey  ·  HelpScout  ·  Asana
+                 Square POS/CRM  ·  eBay Seller  ·  Whatnot  ·  COMC
 Design & Production:  Adobe Creative Suite (Photoshop, InDesign, Illustrator, Animate)
                      Affinity Designer
 Video:  Final Cut Pro X  ·  Avid Media Composer  ·  Adobe Premiere Pro
-Event & Registration:  Cvent
+Event & Registration:  Cvent  ·  Cadmium
+Analytics:  Google Analytics
 Productivity:  Microsoft Office

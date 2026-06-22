@@ -35,7 +35,7 @@ export default function ProfilePage() {
           Marketing, events, and operations leader with 14+ years of experience building digital campaigns,
           managing large-scale conferences, producing multimedia content, supporting sponsors and clients,
           and running high-volume retail/ecommerce operations. Proven record of growing Sports Source 2 from
-          under $1M to $4M in annual revenue and progressing through three roles at PAINWeek, the nation&apos;s
+          under $1M to $2M in annual revenue and progressing through three roles at PAINWeek, the nation&apos;s
           largest conference on pain. Strong mix of campaign execution, event logistics, CRM/customer support,
           content production, vendor coordination, and hands-on operational management.
         </p>

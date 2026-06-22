@@ -31,7 +31,7 @@ export default function EcommerceCV() {
         <h3>ECOMMERCE &amp; MARKETPLACE OPERATIONS · RETAIL MANAGEMENT · REVENUE GROWTH</h3>
         <p>
           Operations and ecommerce professional with direct experience growing a high-volume retail and
-          marketplace business from under $1M to approximately $4M in annual revenue. Manages more than
+          marketplace business from under $1M to approximately $2M in annual revenue. Manages more than
           2 million items across physical retail, eBay, and Whatnot marketplace channels. Brings 14+ years
           of background in operations, digital campaign management, CRM, customer support workflows, and
           cross-functional project execution from a prior career managing large-scale healthcare conference
@@ -49,18 +49,20 @@ export default function EcommerceCV() {
         <h3>PROFESSIONAL EXPERIENCE</h3>
 
         <h4>SPORTS SOURCE 2 — Los Angeles, CA</h4>
-        <p><strong>General Manager</strong> · February 2023–Present</p>
+        <p><strong>General Manager</strong> · February 2023–January 2026</p>
         <p style={{ fontStyle: 'italic', color: '#555' }}>
-          High-volume trading card retailer operating across physical storefront, eBay, and Whatnot
-          marketplace channels.
+          High-volume trading card retailer operating across physical storefront, eBay, Whatnot, and
+          Facebook marketplace channels. Operated as solo General Manager for two years, then with one
+          direct report for a subsequent two-year period. Managed relationships with 8 frequent vendors.
         </p>
         <ul>
-          <li>Helped grow annual revenue from under $1M to approximately $4M by expanding marketplace presence, improving operational execution, and building customer visibility.</li>
-          <li>Manage an inventory of more than 2 million items, including product intake, organization, pricing support, procurement, and sales readiness across in-store and online channels.</li>
-          <li>Expanded ecommerce revenue by increasing eBay store visibility and actively selling on Whatnot.</li>
-          <li>Drive customer acquisition and repeat business through email marketing campaigns and social media advertising.</li>
-          <li>Coordinate across physical retail, eBay, and Whatnot workflows to keep inventory aligned with demand.</li>
-          <li>Oversee daily store operations, product procurement, customer service, staff coordination, and process improvements.</li>
+          <li>Grew annual revenue from under $1M to approximately $2M by expanding marketplace presence, improving operational execution, and building customer visibility.</li>
+          <li>Managed an inventory of more than 2 million items, including intake, organization, pricing support, procurement, and sales readiness across in-store and online channels.</li>
+          <li>Operated eBay as primary online sales channel; maintained Squarespace inventory listing site (non-ecommerce due to constant price fluctuations). Ran bi-weekly Facebook case breaks and weekly Whatnot shows through a dedicated breaker. Executed COMC arbitrage for quick in-store resale profit.</li>
+          <li>Used Square Terminal and Square POS/CRM for in-store transactions and email marketing through the Square email module. Product procurement through Upper Deck, Topps, Panini, supplier, and distributor portals.</li>
+          <li>Managed daily procurement with a $500 buying budget, with larger purchases escalated to the owner.</li>
+          <li>Drove customer acquisition and repeat business through Square email marketing module campaigns and organic social media.</li>
+          <li>Coordinated across physical retail, eBay, Whatnot, and Facebook workflows to keep inventory aligned with demand.</li>
         </ul>
 
         <h4>PAINWEEK — Montclair, NJ</h4>
@@ -69,7 +71,7 @@ export default function EcommerceCV() {
         <p><strong>Program Manager</strong> · February 2009–March 2015</p>
         <ul>
           <li>Managed CRM, registration, and customer support workflows for 50+ events per year using HubSpot, HelpScout, Cvent, and website live chat. Served as POC for attendees from initial recruitment through post-conference follow-up.</li>
-          <li>Produced and managed daily, weekly, and monthly email campaigns across a multi-year program.</li>
+          <li>Owned the email process end-to-end for 50k active subscribers: campaign builds in MailChimp and HubSpot, send execution, and results exporting. Mass campaigns achieved 10-20% open rates; targeted sponsor/exhibitor campaigns achieved over 70% click rates.</li>
           <li>Managed sponsor-facing digital programs including banner advertising, web-based campaigns, and digital promotional pieces.</li>
           <li>Coordinated vendors and contract resources for national and regional conference execution.</li>
           <li>Managed project documentation from intake through delivery across digital, print, and event production.</li>
@@ -92,8 +94,10 @@ export default function EcommerceCV() {
         </ul>
 
         <h3>SOFTWARE AND TOOLS</h3>
-        <p><strong>Ecommerce &amp; Marketplaces:</strong> eBay · Whatnot</p>
-        <p><strong>Marketing &amp; CRM:</strong> HubSpot · HelpScout · Asana</p>
+        <p><strong>Ecommerce &amp; Marketplaces:</strong> eBay · Whatnot · COMC · Facebook Marketplace</p>
+        <p><strong>POS &amp; CRM:</strong> Square Terminal · Square POS/CRM · Square Email Module</p>
+        <p><strong>Vendor Portals:</strong> Upper Deck · Topps · Panini · Distributor portals</p>
+        <p><strong>Marketing &amp; CRM:</strong> HubSpot · MailChimp · HelpScout · Asana</p>
         <p><strong>Design:</strong> Adobe Creative Suite · Affinity Designer</p>
         <p><strong>Video:</strong> Final Cut Pro X · Avid Media Composer · Adobe Premiere Pro</p>
         <p><strong>Productivity:</strong> Microsoft Office · Cvent</p>

@@ -39,7 +39,7 @@ export default function ReviewPage() {
 
         <h2>What Is Working</h2>
         <ul>
-          <li>Real operational scale: grew Sports Source 2 revenue from under $1M to $4M annually.</li>
+          <li>Real operational scale: grew Sports Source 2 revenue from under $1M to $2M annually.</li>
           <li>Long tenure and progression at PAINWeek: Program Manager &rarr; Senior Program Director &rarr; Director, Multimedia Production.</li>
           <li>Strong hybrid profile: marketing, event operations, digital production, CRM/customer support, analytics, and ecommerce.</li>
           <li>Concrete event scale: 50+ events/year, 150&ndash;2,500 attendees/exhibitors, 120-page program guide, 250+ edited interviews/animations.</li>
@@ -71,7 +71,7 @@ export default function ReviewPage() {
         <h2>Changes Made in the Updated Resume</h2>
         <ul>
           <li>Repositioned Patrick as a marketing, event operations, and ecommerce leader.</li>
-          <li>Pulled the $1M &rarr; $4M revenue growth into the top summary.</li>
+          <li>Pulled the $1M &rarr; $2M revenue growth into the top summary.</li>
           <li>Converted responsibility lists into achievement bullets.</li>
           <li>Flattened formatting for ATS readability.</li>
           <li>Consolidated skills into keyword-rich groups.</li>

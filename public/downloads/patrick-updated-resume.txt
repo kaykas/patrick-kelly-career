@@ -6,7 +6,7 @@ MARKETING OPERATIONS  ·  EVENT PROGRAM MANAGEMENT  ·  ECOMMERCE GROWTH
 Marketing, events, and operations leader with 14+ years of experience building digital campaigns,
 managing large-scale conferences, producing multimedia content, supporting sponsors and clients,
 and running high-volume retail/ecommerce operations. Proven record of growing Sports Source 2
-from under $1M to $4M in annual revenue and progressing through three roles at PAINWeek,
+from under $1M to $2M in annual revenue and progressing through three roles at PAINWeek,
 the nation's largest conference on pain. Strong mix of campaign execution, event logistics,
 CRM/customer support, content production, vendor coordination, and hands-on operational management.
 
@@ -15,9 +15,9 @@ CORE STRENGTHS
 
 - Marketing operations and campaign execution
 - Event planning, conference logistics, and attendee communications
-- Ecommerce and marketplace operations: eBay, Whatnot, retail inventory
+- Ecommerce and marketplace operations: eBay, Whatnot, COMC, retail inventory
 - Digital content production: video, animation, interactive PDFs, program guides
-- CRM, registration, and customer support workflows: HubSpot, HelpScout, Cvent
+- CRM, registration, and customer support workflows: HubSpot, MailChimp, HelpScout, Cvent
 - Sponsor/client support, vendor coordination, and cross-functional project management
 - Adobe Creative Suite, Final Cut Pro X, Avid Media Composer, Affinity Designer
 - Inventory management, product procurement, and customer growth
@@ -26,22 +26,30 @@ CORE STRENGTHS
 PROFESSIONAL EXPERIENCE
 
 SPORTS SOURCE 2 — Los Angeles, CA
-General Manager  ·  February 2023–Present
+General Manager  ·  February 2023–January 2026
 
-Manage day-to-day operations for a high-volume trading card retailer with a large physical
-inventory, ecommerce channels, and marketplace-driven revenue streams.
+Managed day-to-day operations for a high-volume trading card retailer with a large physical
+inventory, ecommerce channels, and marketplace-driven revenue streams. Solo operator for two
+years, with one direct report for a subsequent two-year period. Managed relationships with 8
+frequent vendors. Used Square Terminal and Square POS/CRM for in-store transactions. Product
+procurement through Upper Deck, Topps, Panini, supplier, and distributor portals.
 
-- Helped grow annual revenue from under $1M to approximately $4M by expanding sales channels,
+- Grew annual revenue from under $1M to approximately $2M by expanding sales channels,
   improving operational execution, and increasing customer visibility.
-- Manage an inventory of more than 2 million items, including product intake, organization,
+- Managed an inventory of more than 2 million items, including product intake, organization,
   procurement, pricing support, and sales readiness.
-- Expanded revenue opportunities through increased eBay visibility and marketplace selling on
-  platforms including Whatnot.
-- Support customer growth through email marketing, social media advertising, and improved
-  store visibility.
-- Oversee daily retail operations, product procurement, customer service, sales support, and
-  process improvements.
-- Coordinate across in-store, ecommerce, and marketplace workflows to keep inventory and
+- Operated on eBay as the primary online sales channel and maintained a Squarespace inventory
+  listing site (non-ecommerce, due to constant price fluctuations).
+- Managed bi-weekly live case breaks on Facebook groups, with fills and live presentations
+  handled through the store. Ran weekly Whatnot shows through a dedicated breaker, using dead
+  inventory as loss-leader content to build audience.
+- Executed COMC arbitrage: purchased inventory when player values rose before price
+  adjustments, resold in-store for quick profit.
+- Supported customer growth through Square email marketing module campaigns, organic social
+  media, and improved store visibility.
+- Oversaw daily retail operations, product procurement with a $500 daily buying budget,
+  customer service, sales support, and process improvements.
+- Coordinated across in-store, ecommerce, and marketplace workflows to keep inventory and
   customer demand aligned.
 
 PAINWEEK — Montclair, NJ
@@ -50,25 +58,34 @@ Senior Program Director  ·  March 2015–January 2020
 Program Manager  ·  February 2009–March 2015
 
 Progressed through program management, event leadership, and multimedia production roles for
-PAINWeek, the nation's largest conference on pain. Served as a key member of the management
-team reporting directly to managing partners, with responsibility across digital engagement,
-event coordination, corporate branding, sponsor support, graphic design, and multimedia production.
+PAINWeek, the nation's largest conference on pain. Conference hosted approximately 125
+exhibitors annually, including 10-20 major pharmaceutical sponsors. Served as a key member
+of the management team reporting directly to managing partners, with responsibility across
+digital engagement, event coordination, corporate branding, sponsor support, graphic design,
+and multimedia production. Annual conference production budget of approximately $500k;
+managed recruitment marketing ($50k) and digital production ($20k) budgets. Transitioned to
+virtual and hybrid delivery during COVID using a custom-built platform on Cadmium.
 
 - Managed digital and live event operations for more than 50 events per year, ranging from
   150 to 2,500 attendees and exhibitors.
 - Coordinated attendee workflows from recruitment through post-conference follow-up, including
   communications, support, registration systems, and event logistics.
-- Produced daily, weekly, and monthly email campaigns supporting audience engagement, sponsor
-  programs, event promotion, and digital recruitment strategies.
+- Owned the email marketing process end-to-end for a list of approximately 50,000 active
+  subscribers, from content creation and campaign builds in MailChimp and HubSpot through send
+  execution and results exporting. Produced daily, weekly, and monthly campaigns supporting
+  audience engagement, sponsor programs, event promotion, and digital recruitment strategies.
+  Mass marketing campaigns achieved 10-20% open rates and ~3% click rates; highly targeted
+  sponsor and exhibitor campaigns achieved over 70% click rates and up to 80% open rates.
 - Served as point of contact for client-supported web campaigns, including banner advertising,
   high-volume email campaigns, and digital promotional programs.
 - Managed sponsored banner ads on PAINWeek.org and internal banner placements across partner
-  websites.
+  websites. Used Google Analytics to track Google Ads campaign performance.
 - Produced social media campaign assets and advertising content for Facebook, Instagram, and X.
+  Used SurveyMonkey for email surveys and audience feedback collection.
 - Managed structure, functionality, and content updates for a rapidly expanding healthcare
   conference website.
-- Edited 250+ faculty interviews and animations using Avid, Final Cut Pro X, Adobe Premiere Pro,
-  and Adobe Animate.
+- Edited 250+ faculty interviews and animations using Avid Media Composer, Final Cut Pro X,
+  Adobe Premiere Pro, and Adobe Animate.
 - Created original marketing and event materials using Photoshop, InDesign, and Illustrator,
   including a 120-page program guide, interactive PDFs, sales collateral, and exhibit booth assets.
 - Created interactive PDF promotional pieces for business development and sponsor-facing sales
@@ -102,6 +119,7 @@ CERTIFICATIONS
 
 SOFTWARE AND TOOLS
 
-Microsoft Office  ·  Adobe Creative Suite  ·  Photoshop  ·  InDesign  ·  Illustrator  ·  Adobe Animate
-Final Cut Pro X  ·  Avid Media Composer  ·  Affinity Designer  ·  Asana  ·  HubSpot  ·  HelpScout
-Cvent  ·  eBay  ·  Whatnot
+Microsoft Office  ·  Adobe Creative Suite (Photoshop, InDesign, Illustrator, Animate)
+Final Cut Pro X  ·  Avid Media Composer  ·  Adobe Premiere Pro  ·  Affinity Designer
+HubSpot  ·  MailChimp  ·  SurveyMonkey  ·  HelpScout  ·  Cvent  ·  Cadmium  ·  Asana
+Google Analytics  ·  Square Terminal  ·  Square POS/CRM  ·  eBay  ·  Whatnot  ·  COMC

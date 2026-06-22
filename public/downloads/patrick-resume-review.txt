@@ -6,15 +6,17 @@ for a few years, is not getting many interviews, and suspects ATS/ranking system
 reading or prioritizing the resume well.
 
 WHAT IS WORKING
-- Real operational scale: grew Sports Source 2 revenue from under $1M to $4M annually.
+- Real operational scale: grew Sports Source 2 revenue from under $1M to $2M annually.
 - Long tenure and progression at PAINWeek: Program Manager -> Senior Program Director ->
   Director, Multimedia Production.
 - Strong hybrid profile: marketing, event operations, digital production, CRM/customer
   support, analytics, and ecommerce.
 - Concrete event scale: 50+ events/year, 150-2,500 attendees/exhibitors, 120-page program
-  guide, 250+ edited interviews/animations.
-- Tool stack is useful: Adobe Creative Suite, Cvent, HubSpot, HelpScout, Asana, video
-  editing tools.
+  guide, 250+ edited interviews/animations. ~125 exhibitors with 10-20 major pharma sponsors.
+- Email marketing ownership: 50k active subscribers, 10-20% mass open rates, up to 80%
+  targeted open rates, over 70% targeted click rates.
+- Tool stack is comprehensive: Adobe Creative Suite, Cvent, HubSpot, MailChimp, HelpScout,
+  Asana, Cadmium, Google Analytics, Square POS/CRM, eBay, Whatnot, COMC.
 
 MAIN ISSUES HURTING VISIBILITY
 1. Headline is too broad. "Marketing/Communications/Event Management" does not tell an
@@ -26,28 +28,36 @@ MAIN ISSUES HURTING VISIBILITY
    stakeholders, budget/vendor/team size, and tools.
 4. Formatting likely creates parsing problems. Multiple roles under one employer, tabbed
    spacing, section labels embedded as bullets, and decorative formatting can confuse ATS.
-5. Sports Source 2 is underdeveloped. Most current role with the best metric needs more
-   context: team size, inventory systems, ecommerce channels, campaign cadence, etc.
-6. Skills section is incomplete for current roles. Lists software but not keyword clusters
+5. Skills section is incomplete for current roles. Lists software but not keyword clusters
    recruiters search for.
-7. The resume lacks targeting. One all-purpose resume performs poorly against modern ATS
+6. The resume lacks targeting. One all-purpose resume performs poorly against modern ATS
    ranking. Needs base resume plus tailored variants.
 
 RECOMMENDED STRATEGY
-Build one clean ATS master resume, then maintain four role-specific versions:
-- Marketing Operations / Marketing Specialist
-- Event Marketing / Program Manager
-- Digital Content / Multimedia Production
-- Ecommerce / Marketplace Operations Manager
+Build one clean ATS master resume, then maintain three role-specific versions:
+- Marketing & Event Operations (primary target: Event Program Manager)
+- Ecommerce & Marketplace Operations
+- Digital Content & Production
 
 For every job application, mirror the job description's terms where truthful: "campaign
-operations," "event logistics," "CRM," "marketing automation," "stakeholder management,"
-"ecommerce marketplace," "vendor coordination," "analytics/reporting," etc.
+operations," "event logistics," "CRM," "marketing automation," "ecommerce marketplace,"
+"vendor coordination," "analytics/reporting," etc.
 
 CHANGES MADE IN THE UPDATED RESUME
 - Repositioned Patrick as a marketing, event operations, and ecommerce leader.
-- Pulled the $1M -> $4M revenue growth into the top summary.
-- Converted responsibility lists into achievement bullets.
+- Corrected revenue figure: $4M was a typo, confirmed as $2M.
+- Added email marketing metrics: 50k active subscribers, 10-20% mass open rates,
+  ~3% marketing click rates, over 70% targeted sponsor/exhibitor click rates.
+- Added team scope: solo operator for 2 years at SS2, one direct report for 2 years.
+- Updated Sports Source 2 end date: January 2026.
+- Added Square POS/CRM and procurement portal details.
+- Added PAINWeek exhibitor scale (~125 exhibitors, 10-20 pharma sponsors).
+- Added budget context: $500k production, $50k recruitment, $20k digital.
+- Added COVID transition detail (Cadmium platform).
+- Added analytics tools (Google Analytics).
+- Added email platforms (MailChimp, HubSpot, SurveyMonkey, Square Email Module).
+- Pulled the $1M -> $2M revenue growth into the top summary.
 - Flattened formatting for ATS readability.
 - Consolidated skills into keyword-rich groups.
-- Made the PAINWeek career progression readable without burying the promotions.
+- Added MailChimp, SurveyMonkey, Cadmium, Square Terminal, Square POS/CRM, Google
+  Analytics, and COMC to the Software and Tools section.

@@ -13,12 +13,14 @@ export default function QuestionsPage() {
 
   const p1 = [
     {
-      q: 'Role targeting — which job family first?',
-      hint: 'Pick one or two for the initial push: Marketing Operations Manager, Event Marketing/Program Manager, Digital Content/Production Manager, Ecommerce/Marketplace Operations Manager, or General Manager (retail/ops). The CV variants cover all four, but real applications need a specific one-page focus.',
+      q: '✓ Role targeting — which job family first?',
+      hint: 'Event Program Manager. CV variants should prioritize this role.',
+      answer: 'Event Program Manager',
     },
     {
-      q: 'Sports Source 2 — revenue numbers',
-      hint: 'The resume says "under $1M to $4M." Is that annual or cumulative? Is $4M current or a peak? Safe to publish that exact figure? How directly did your work drive that growth — were you one of two or three people, or a contributor in a larger operation?',
+      q: '✓ Sports Source 2 — revenue numbers',
+      hint: '$4M was a typo. Should be $2M (annual). Updated in all CV variants.',
+      answer: '$4M was a typo. Correct figure is $2M. Growth was driven directly as the General Manager — operated solo for two years, then with one direct report.',
     },
     {
       q: 'Sports Source 2 — actual store name and correct capitalization',
@@ -164,12 +166,12 @@ export default function QuestionsPage() {
             </thead>
             <tbody>
               <tr><td style={{ padding: '0.4rem 0.5rem', borderBottom: '1px solid #ddd' }}>Summary</td><td style={{ padding: '0.4rem 0.5rem', borderBottom: '1px solid #ddd' }}>Role family (P1-1), revenue attribution (P1-2)</td></tr>
-              <tr><td style={{ padding: '0.4rem 0.5rem', borderBottom: '1px solid #ddd' }}>Sports Source 2</td><td style={{ padding: '0.4rem 0.5rem', borderBottom: '1px solid #ddd' }}>Revenue details (P1-2), store name (P1-3), team size (P1-5), eBay/Whatnot metrics (P2-7), inventory tools (P2-8)</td></tr>
-              <tr><td style={{ padding: '0.4rem 0.5rem', borderBottom: '1px solid #ddd' }}>PAINWeek</td><td style={{ padding: '0.4rem 0.5rem', borderBottom: '1px solid #ddd' }}>Email platform + metrics (P1-4), team size (P1-5), budget (P2-6), sponsor count (P2-9), COVID transition (P2-10), analytics (P2-11)</td></tr>
-              <tr><td style={{ padding: '0.4rem 0.5rem', borderBottom: '1px solid #ddd' }}>Skills</td><td style={{ padding: '0.4rem 0.5rem', borderBottom: '1px solid #ddd' }}>Email platforms (P2-12), inventory/POS tools (P2-8)</td></tr>
-              <tr><td style={{ padding: '0.4rem 0.5rem', borderBottom: '1px solid #ddd' }}>Education</td><td style={{ padding: '0.4rem 0.5rem', borderBottom: '1px solid #ddd' }}>Degree + year (P3-13)</td></tr>
-              <tr><td style={{ padding: '0.4rem 0.5rem', borderBottom: '1px solid #ddd' }}>Laughing Turtle</td><td style={{ padding: '0.4rem 0.5rem', borderBottom: '1px solid #ddd' }}>Paid vs. volunteer (P3-14)</td></tr>
-              <tr><td style={{ padding: '0.4rem 0.5rem', borderBottom: '1px solid #ddd' }}>Contact / Portfolio</td><td style={{ padding: '0.4rem 0.5rem', borderBottom: '1px solid #ddd' }}>LinkedIn, reel, geography (P3-15, P3-16)</td></tr>
+              <tr><td style={{ padding: '0.4rem 0.5rem', borderBottom: '1px solid #ddd' }}>Sports Source 2</td><td style={{ padding: '0.4rem 0.5rem', borderBottom: '1px solid #ddd' }}>Core facts answered: $2M revenue, Sports Source 2 capitalization, Jan 2026 end date, team size, eBay/Whatnot/COMC workflow, Square POS/CRM, vendor portals. Remaining useful detail: any public store links or quantified channel growth.</td></tr>
+              <tr><td style={{ padding: '0.4rem 0.5rem', borderBottom: '1px solid #ddd' }}>PAINWeek</td><td style={{ padding: '0.4rem 0.5rem', borderBottom: '1px solid #ddd' }}>Core facts answered: 50k list, MailChimp/HubSpot/SurveyMonkey, campaign metrics, 125 exhibitors, 10-20 big pharma, $50k recruitment / $20k digital / $500k production context, Cadmium virtual/hybrid platform, Google Analytics.</td></tr>
+              <tr><td style={{ padding: '0.4rem 0.5rem', borderBottom: '1px solid #ddd' }}>Skills</td><td style={{ padding: '0.4rem 0.5rem', borderBottom: '1px solid #ddd' }}>Updated with MailChimp, HubSpot, SurveyMonkey, Square Terminal, Square POS/CRM, Cadmium, Google Analytics, COMC, eBay, Whatnot, and card vendor portals.</td></tr>
+              <tr><td style={{ padding: '0.4rem 0.5rem', borderBottom: '1px solid #ddd' }}>Education</td><td style={{ padding: '0.4rem 0.5rem', borderBottom: '1px solid #ddd' }}>Answered: did not graduate. Resume now frames St. Lawrence as studies rather than a completed degree.</td></tr>
+              <tr><td style={{ padding: '0.4rem 0.5rem', borderBottom: '1px solid #ddd' }}>Laughing Turtle</td><td style={{ padding: '0.4rem 0.5rem', borderBottom: '1px solid #ddd' }}>Answered: volunteer support for partner Taylor's company; includes pitch decks, reality TV concepts, legal defense video editing, and graphic production.</td></tr>
+              <tr><td style={{ padding: '0.4rem 0.5rem', borderBottom: '1px solid #ddd' }}>Contact / Portfolio</td><td style={{ padding: '0.4rem 0.5rem', borderBottom: '1px solid #ddd' }}>Answered: LinkedIn and YouTube sample portfolio supplied; LA-only, remote PT possible, prefers entertainment, sports, or high-end event management; target Senior Program Manager+ / Director-level, $125k starting base.</td></tr>
             </tbody>
           </table>
         </div>

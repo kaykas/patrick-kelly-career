@@ -62,7 +62,7 @@ export default function DigitalContentCV() {
           <li>Produced keynote video content for the PAINWeek National Conference and created graphic animation assets for internal and external digital use.</li>
           <li>Designed and produced original marketing and event materials in Photoshop, InDesign, and Illustrator: 120-page annual program guide, interactive PDFs, exhibit booth structures, sales collateral, and sponsor-facing promotional pieces.</li>
           <li>Managed structure, functionality, and content updates for a rapidly expanding healthcare conference website, including web copy, banner ad placements, and digital promotional inventory.</li>
-          <li>Produced daily, weekly, and monthly email campaigns, managing layout, copy, asset production, and send.</li>
+          <li>Produced daily, weekly, and monthly email campaigns managing layout, copy, asset production, send execution, and results exporting. Built campaigns in MailChimp and HubSpot for a list of approximately 50,000 active subscribers. Mass campaigns achieved 10-20% open rates; targeted sponsor/exhibitor campaigns achieved over 70% click rates.</li>
           <li>Created and produced social media campaign content for Facebook, Instagram, and X.</li>
           <li>Served as POC for all client-supported web campaigns: banner advertising, high-volume email programs, and digital promotional assets.</li>
           <li>Created interactive PDF promotional pieces and sales materials for business development and sponsor-facing presentations.</li>
@@ -72,10 +72,12 @@ export default function DigitalContentCV() {
         </ul>
 
         <h4>SPORTS SOURCE 2 — Los Angeles, CA</h4>
-        <p><strong>General Manager</strong> · February 2023–Present</p>
+        <p><strong>General Manager</strong> · February 2023–January 2026</p>
         <ul>
-          <li>Support customer acquisition and retention through email marketing campaigns and social media advertising content creation.</li>
-          <li>Manage visual presentation and marketplace listing quality across eBay and Whatnot channels.</li>
+          <li>Supported customer acquisition and retention through Square email marketing module campaigns and organic social media content creation.</li>
+          <li>Managed visual presentation and marketplace listing quality across eBay, Whatnot, and Facebook channels.</li>
+          <li>Created and produced content for bi-weekly Facebook case breaks and weekly Whatnot shows.</li>
+          <li>Used Square POS/CRM and managed product photography and listing assets across sales channels.</li>
         </ul>
 
         <h3>VOLUNTEER / CREATIVE PRODUCTION</h3>
@@ -100,8 +102,10 @@ export default function DigitalContentCV() {
         <h3>SOFTWARE AND TOOLS</h3>
         <p><strong>Video &amp; Motion:</strong> Final Cut Pro X · Avid Media Composer · Adobe Premiere Pro · Adobe Animate</p>
         <p><strong>Design &amp; Layout:</strong> Adobe Photoshop · Adobe InDesign · Adobe Illustrator · Affinity Designer</p>
-        <p><strong>Web &amp; Digital:</strong> CMS content management · Email campaign production · Banner ad production</p>
+        <p><strong>Email Marketing:</strong> MailChimp · HubSpot · SurveyMonkey · Square Email Module</p>
+        <p><strong>Web &amp; Digital:</strong> CMS content management · Banner ad production · Cadmium</p>
         <p><strong>CRM &amp; Project:</strong> HubSpot · HelpScout · Asana · Cvent</p>
+        <p><strong>Analytics:</strong> Google Analytics</p>
         <p><strong>Productivity:</strong> Microsoft Office</p>
       </div>
     </>
